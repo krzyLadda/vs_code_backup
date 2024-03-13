@@ -1,0 +1,11 @@
+// Place your key bindings in this file to override the defaults
+[
+  {
+    "key": "ctrl+r",
+    "command": "python.execInTerminal-icon"
+  },
+  {
+    "key": "ctrl+e",
+    "command": "workbench.action.terminal.kill"
+  }
+]
